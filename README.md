@@ -1,6 +1,5 @@
 # ElectronizeMe: Unleash the Power of Electrons!
 
-![ElectronizeMe Logo](https://example.com/electronizeme-logo.png)
 
 Welcome to ElectronizeMe, your passport to transforming web applications into sleek, standalone wonders for both Windows and macOS! With ElectronizeMe, you're not just bundling apps; you're orchestrating a symphony of electrons, turning your web creation into a powerhouse desktop experience.
 

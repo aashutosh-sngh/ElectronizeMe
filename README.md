@@ -1,5 +1,6 @@
 # ElectronizeMe: Unleash the Power of Electrons!
 
+![ElectronizeMe Logo](https://example.com/electronizeme-logo.png)
 
 Welcome to ElectronizeMe, your passport to transforming web applications into sleek, standalone wonders for both Windows and macOS! With ElectronizeMe, you're not just bundling apps; you're orchestrating a symphony of electrons, turning your web creation into a powerhouse desktop experience.
 
@@ -10,6 +11,9 @@ Welcome to ElectronizeMe, your passport to transforming web applications into sl
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
 
 ## Introduction
 
@@ -43,7 +47,7 @@ To get ElectronizeMe up and running, follow these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/electronizeme.git
+git clone https://github.com/aashutosh-sngh/ElectronizeMe.git
 
 # Navigate to the project directory
 cd electronizeme
@@ -51,5 +55,26 @@ cd electronizeme
 # Install dependencies
 npm install
 ```
+
+## Usage
+
+Once installed, ElectronizeMe can be summoned with a single command:
+
+```bash
+npm run make
+```
+
+Sit back and watch the electrons weave their magic! ElectronizeMe will create the necessary bundles for both Windows and macOS, leaving you with a glorious desktop application.
+
+## Configuration
+
+Fine-tune the behavior of ElectronizeMe by modifying the `electronize.config.js` file. From window dimensions to application icons, you're in control. Check out our [configuration guide](https://electronizeme-docs.com/configuration) for a detailed walkthrough.
+
+## Contributing
+
+We welcome contributions from the electron enthusiasts out there! Whether you're fixing bugs, enhancing features, or adding that extra touch of electron magic, check out our [contribution guidelines](https://electronizeme-docs.com/contributing) to get started.
+
+
+---
 
 Ready to Electronize? Your journey begins now! Embrace the power of electrons with ElectronizeMe and watch your web application shine on desktops worldwide. Happy coding! 🚀✨
